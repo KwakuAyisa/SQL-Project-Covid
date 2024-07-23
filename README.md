@@ -1,6 +1,6 @@
 **GOAL OF THE PROJECT**
 
-The goal of the project was to analyze the data on COVID 19 vaccinations and deaths globally to identify any trends and patterns as well as a focus on Ghanaian cases. 
+The goal of the project was to analyze the data on COVID 19 vaccinations and deaths globally to identify any trends and patterns as well as a focus on Ghanaian cases. This will help provide users with information about the impact of Covid globally, as well as compared to the impact on Ghana and the African continent.
 
 **THE DATA**
 1.	The data was downloaded from the https://ourworldindata.org/covid-deaths
